@@ -1,0 +1,89 @@
+.menu{
+    height: 60px;
+    width: 100%;
+    background-color: whitesmoke;
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    /*justify-content: space-around;*/
+}
+
+
+
+
+.menu-wei{
+    height: 56px;
+    width: 56px;
+    flex: 1;
+    /*display: flex;*/
+    /*flex-flow: column;*/
+    justify-content: center;
+}
+
+.menu-tong{
+    height: 56px;
+    width: 56px;
+    flex: 1;
+    /*display: flex;*/
+    /*flex-flow: column;*/
+    justify-content: center;
+}
+
+.menu-find{
+    height: 56px;
+    width: 56px;
+    flex: 1;
+    /*display: flex;*/
+    /*flex-flow: column;*/
+    justify-content: center;
+}
+
+.menu-me{
+    height: 56px;
+    width: 56px;
+    flex: 1;
+    /*display: flex;*/
+    /*flex-flow: column;*/
+    justify-content: center;
+}
+
+
+.menu-wei-img-word{
+    height: 50px;
+    width: 50px;
+}
+.menu-wei-img{
+   height: 30px;
+    width: 30px;
+    margin-left: 10px;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+.menu-wei-word{
+    height: 20px;
+    width: 50px;
+    font-size: 3px;
+
+}
+
+.menu-conversation-img{
+    height: 30px;
+    width: 30px;
+    background-position: center;
+    background-size: cover;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.menu-conversation-kua{
+    height: 30px;
+    flex: 1;
+}
+
+
+
+
+
+

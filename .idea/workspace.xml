@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e8d281bd-ff62-4d98-8c6c-7d34646e1209" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/微信.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/.idea/project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/css/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/css/container.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/css/dynamic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/css/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/css/state.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/css/title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/cover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/img-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/img-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/me-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/menu-wei-img-白.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/menu-wei-img.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/中国建设银行.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/为你的寂寞唱歌.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/二维码.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/免打扰.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/公众号.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/关帝庙宽图.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/关帝庙长图.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/加.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/加号-对话.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/卡包.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/发现-绿.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/发现.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/发起群聊.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/头像A.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/头像Z.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/头像x1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/头像x2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/头像x3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/小程序.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/小米商城.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/帮助与反馈.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/微信团队.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/微信支付.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/心.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/悦动圈.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/我-绿.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/我.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/我的企业.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/扫一扫-蓝.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/扫一扫.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/搜一搜.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/摇一摇.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/收付款.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/收藏.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/文件传输助手.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/新的朋友.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/朋友圈.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/朋友圈视频.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/标签.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/添加朋友.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/游戏.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/照相机.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/爱奇艺VIP.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/相册.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/看一看.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/笑脸.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/美团.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/群头像1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/群头像2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/群聊.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/薛by头像.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/表情.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/设置.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/评论.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/语音-右.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/语音.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/购物.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/返回.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/通讯录-绿.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/通讯录.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/钱包.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/附近的人.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/img/顺丰速运.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/js/router-find.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/js/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/page/conversation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/page/find.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/page/friend-circle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/page/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/page/me.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/page/tongxunlu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/wechat/page/we.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/project/wechat/page/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="49" />
+    <option name="y" value="52" />
+    <option name="width" value="1348" />
+    <option name="height" value="771" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Wechat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Wechat" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Wechat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Wechat" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Wechat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Wechat" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="wechat" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8d281bd-ff62-4d98-8c6c-7d34646e1209" name="Default" comment="" />
+      <created>1533513847285</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533513847285</updated>
+      <workItem from="1533513850203" duration="713000" />
+      <workItem from="1533536459847" duration="267000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="980000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="49" y="52" width="1348" height="771" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/project/wechat/page/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/wechat/page/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

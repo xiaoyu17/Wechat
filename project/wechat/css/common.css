@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 微软雅黑;
+}
+
+.border{
+    border: 1px blue solid;
+}
+
+.xy-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.border-bottom-black {
+    border-bottom: black 1px solid;
+}
+
+.color-red{
+    color: red;
+}

@@ -1,0 +1,653 @@
+.dynamic{
+    flex: 1;
+    /*height: 200px;*/
+    width: 100%;
+    background-color: whitesmoke;
+    flex-flow: column;
+    overflow: scroll;
+    border-bottom: #bfbfbf solid 1px;
+}
+
+::-webkit-scrollbar{
+    display: none;
+}
+
+/*微信开始*/
+
+.chat-item{
+    height: 72px;
+    width: 100%;
+    display: flex;
+    flex-flow: row;
+    /*background-color: darkolivegreen;*/
+    align-items: center;
+    border-bottom: #dbdbdb solid 1px ;
+}
+
+.head{
+    height: 58px;
+    width: 58px;
+    margin:  0px 10px 0px 10px;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+.news{
+    height: 58px;
+    flex: 1;
+    display: flex;
+    flex-flow: column;
+
+
+}
+
+.news-top{
+    height: 29px;
+    width: 100%;
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+}
+
+.news-bottom{
+    height: 29px;
+    width: 100%;
+    align-items: center;
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+}
+
+
+.news-top-name{
+    height: 20px;
+    flex:1;
+    font-size: 15px;
+    font-weight: 600;
+
+}
+.news-top-time{
+    height: 20px;
+    width: 60px;
+    font-size:3px;
+    color:grey;
+    line-height: 20px;
+text-align: right;
+    margin-right: 10px;
+
+}
+.news-bottom-word{
+    height: 20px;
+    flex:1;
+    font-size: 10px;
+    font-weight:100;
+    color: grey;
+
+
+}
+.news-bottom-silence{
+    height: 20px;
+    width: 20px;
+    margin-right: 10px;
+    /*font-size: 3px;*/
+    color:grey;
+    background-image: url("../img/免打扰.svg");
+    background-position: center;
+    background-size: cover;
+
+}
+
+.little-red{
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    background-color: red;
+    position: absolute;
+    top:-3px;
+     right: -3px;
+}
+
+.little-red-number{
+    height: 16px;
+    width: 16px;
+    border-radius: 50%;
+    background-color: red;
+    position: absolute;
+    top:-3px;
+    right: -3px;
+    color:white;
+    line-height: 16px;
+    text-align: center;
+    font-size: 1px;
+}
+
+
+/*微信结束*/
+
+/*通讯录开始*/
+ .tong-item{
+     height: 60px;
+     width: 100%;
+     display: flex;
+     flex-flow: row;
+     align-items: center;
+ }
+
+ .tong-item-img{
+     height: 40px;
+     width:40px;
+     justify-content: center;
+     /*align-items: center;*/
+     margin: 10px ;
+     background-position: center;
+     background-size: cover;
+ }
+
+ .tong-item-name{
+     height: 40px;
+     flex: 1;
+     /*align:center;*/
+     /*padding: 10px;*/
+     line-height: 40px;
+     font-weight: 100;
+
+ }
+
+ .border-bottom{
+     border-bottom: 1px #cdcdcd solid;
+ }
+
+
+ .tong-direction{
+     height: 24px;
+     background-color: #cdcdcd;
+     font-size: 3px;
+     color: #707070;
+     line-height: 24px;
+     text-indent: 10px;
+ }
+
+.tong-bottom{
+    height: 60px;
+    background-color: #bfbfbf;
+    font-size: 20px;
+    color: #707070;
+    text-align: center;
+    line-height: 60px;
+
+}
+
+.tong-dong{
+    height: 40px;
+    flex: 1;
+    line-height: 40px;
+    display: flex;
+    flex-flow: row;
+}
+
+.tong-dong-name{
+    height: 40px;
+    flex: 1;
+}
+
+.tong-dong-img{
+    height: 40px;
+    width: 40px;
+    margin-right: 20px;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+/*通讯录结束*/
+
+/*发现开始*/
+.find-img{
+    height: 30px;
+    width: 30px;
+    background-position: center;
+    background-size: cover;
+}
+
+
+.tong-item-circle{
+    height: 60px;
+    width: 100%;
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+}
+
+
+/*发现结束*/
+
+/*我开始*/
+.me-personal-information{
+    height: 90px;
+    background-color: white;
+    display: flex;
+    flex-flow: row;
+
+}
+
+
+.me-img{
+    height: 70px;
+    width: 70px;
+    background-image: url("../img/me-img.jpg");
+    background-position: center;
+    background-size: cover;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.me-word{
+    height: 70px;
+    flex: 1;
+    display: flex;
+    flex-flow: row;
+}
+
+.me-word-word{
+    height: 50px;
+    flex: 1;
+    display: flex;
+    flex-flow: column;
+}
+
+.me-word-ma{
+    height: 25px;
+    width: 25px;
+    margin-right: 20px;
+    background-image: url("../img/二维码.svg");
+    background-position: center;
+    background-size:cover;
+}
+
+
+.me-name {
+    height: 25px;
+    line-height: 25px;
+    font-size: 15px;
+    font-weight:700 ;
+}
+
+.me-hao{
+    height: 25px;
+    font-size: 5px;
+    font-weight: 100;
+    line-height: 25px;
+    color: #8a8a8a;
+}
+
+.me-bottom{
+    height: 46px;
+    background-color: #cdcdcd;
+}
+
+/*我结束*/
+
+
+/*聊天开始*/
+
+
+.conversation-background{
+    background-color:#e6e6e6;
+}
+.message-box{
+    max-width: 100%;
+    min-height: 20px;
+    color: #313131;
+
+    margin: 10px ;
+}
+
+.message-time{
+    height: 20px;
+    margin-top: 10px;
+}
+
+.message-time-display{
+    background-color: #bfbfbf;
+    color: white;
+    font-size: 10px;
+    padding: 2px 5px 2px 5px;
+}
+
+.message-head{
+    height: 50px;
+    width: 50px;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.message-head-left{
+    background-image: url(../img/薛by头像.jpg);
+}
+
+
+.message-head-right{
+    background-image: url(../img/me-img.jpg);
+}
+
+
+
+.message-text{
+    max-width: 70%;
+    line-height: 40px;
+    border-radius: 4px;
+    font-size: 15px;
+    margin: 0px 10px 0px 10px;
+    padding: 0px 10px 0px 10px;
+}
+
+
+.display-right {
+    display:flex;
+    flex-flow: row-reverse;
+}
+
+
+.display-left{
+    display: flex;
+    flex-flow: row;
+}
+
+.message-text-left{
+    background-color: white;
+}
+
+.message-text-right{
+    background-color:greenyellow;
+}
+
+.message-img{
+
+}
+
+.message-img img{
+    max-height: 200px;
+    max-width: 200px;
+    border-radius: 4px;
+
+}
+
+.message-img-right{
+    margin: px 10px 4px 0px;
+}
+
+.message-img-left{
+    margin: 4px 0px 4px 10px;
+}
+
+
+.message-voice{
+   height: 50px;
+    display: flex;
+    flex-flow: row-reverse;
+}
+.message-voice-img{
+      height: 50px;
+    width: 100px;
+    background-color: greenyellow;
+    margin-right: 10px;
+}
+
+.voice-img{
+    height: 30px;
+    width: 30px;
+    background-image: url("../img/语音-右.svg");
+    background-position: center;
+    background-size: cover ;
+    margin: 10px 10px 10px 50px;
+
+}
+
+.message-voice-time{
+       font-size: 10px;
+       line-height: 50px;
+    color: #2c2c2c;
+    padding-right: 5px;
+}
+
+
+/*聊天结束*/
+
+
+/*朋友圈开始*/
+
+.cover-head{
+    height: 300px;
+    width: 100%;
+    position: relative;
+}
+
+.cover{
+    height: 250px;
+    width: 100%;
+    background-image:url("../img/cover.jpg");
+    background-position: center;
+    background-size: cover;
+
+}
+
+.circle-head{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    border: #707070 solid 1px;
+    position: absolute;
+    bottom: 0px;
+    right: 10px;
+
+
+
+}
+
+.head-img{
+    height: 95px;
+    width: 95px;
+    background-image: url(../img/me-img.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.cover-name{
+    height: 40px;
+    width: 40px;
+    color: white;
+    line-height: 40px;
+    position: absolute;
+    bottom: 50px;
+    right: 120px;
+}
+
+.circle-item{
+    max-width: 100%;
+    min-height: 10px;
+    color: #313131;
+
+    margin: 10px ;
+    display: flex;
+    flex-flow: row;
+
+
+}
+
+
+.item-head{
+    width: 50px;
+    margin-right: 5px;
+
+}
+
+.item-head-img{
+    height: 50px;
+    width: 50px;
+    background-position: center;
+    background-size: cover;
+}
+
+.item-text{
+    display: flex;
+    flex-flow: column;
+    width: 100%;
+}
+
+.text-name{
+    height: 20px;
+    color: darkblue;
+    font-size: 15px;
+    line-height: 20px;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.text-word{
+      font-size: 15px;
+    font-weight: 700;
+}
+
+.text-share{
+    height: 60px;
+    /*width: 100%;*/
+    background-color: #dbdbdb;
+    display: flex;
+    flex-flow: row;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.text-state{
+    height: 40px;
+    display: flex;
+    flex-flow: row;
+}
+
+.text-share-img{
+    height: 50px;
+    width: 50px;
+    margin-left: 5px;
+    margin-right: 5px;
+    background-position: center;
+    background-size: cover;
+}
+.text-share-name{
+    height: 40px;
+    flex: 1;
+
+}
+
+.share-name1{
+    color: darkblue;
+    font-size: 14px;
+}
+.share-name2{
+    font-size: 14px;
+}
+
+.text-state-time{
+    height: 30px;
+    flex: 1;
+    font-size: 10px;
+    color: darkgray;
+    line-height: 30px;
+    font-weight: 100;
+
+}
+
+.text-state-comment{
+    height: 20px;
+    width: 20px;
+    margin-right: 10px;
+    background-image: url("../img/评论.svg");
+    background-position: center;
+    background-size: cover;
+
+}
+
+.text-ly{
+     margin-top: 10px;
+    display: flex;
+    flex-flow: row nowrap;
+
+}
+
+.text-ly-img{
+    height: 100px;
+    width: 100px;
+    background-position: center;
+    background-size: cover;
+    margin: 5px;
+}
+
+.position{
+    height: 40px;
+    color: darkblue;
+    line-height: 40px;
+    font-size: 14px;
+    margin-left: 5px;
+}
+
+.comment{
+    background-color: #dbdbdb;
+    display: flex;
+    flex-flow: column;
+    margin-bottom:10px;
+    font-weight: 700;
+}
+
+.comment-zan{
+    height: 30px;
+    display: flex;
+    flex-flow: row;
+}
+
+.comment-zan-img{
+    height: 20px;
+    width: 20px;
+    background-image: url("../img/心.svg");
+    background-position: center;
+    background-size: cover;
+    margin: 5px;
+}
+
+.comment-zan-name{
+    flex: 1;
+    color: darkblue;
+}
+
+.comment-text{
+    height: 30px;
+    display: flex;
+    flex-flow: row;
+    line-height: 30px;
+}
+
+.comment-text-name{
+    height: 30px;
+    /*width: 80px;*/
+    color: darkblue;
+    margin-left: 5px;
+    line-height: 30px;
+}
+
+.comment-text-word{
+    flex: 1;
+
+}
+
+.text-video{
+       margin-top: 10px;
+}
+
+.text-video img{
+    max-height: 200px;
+    max-width: 200px;
+    background-position: center;
+    background-size: cover;
+}
+
+/*朋友圈结束*/
